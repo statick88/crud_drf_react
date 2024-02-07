@@ -64,3 +64,5 @@ npm run dev
 ```
 
 Ahora deberías poder ver la aplicación en funcionamiento en tu navegador.
+
+El código base fue desarrollado desde el repositorio de [Fast Code](https://github.com/fazt/django-react-crud)
