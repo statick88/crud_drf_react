@@ -23,6 +23,11 @@ Si estas en windows ejecuta el siguiente comando:
 ``` bash
 env\Scripts\activate
 ```
+Instalar las dependencias de backend desde el archivo requirements.txt:
+
+``` bash
+pip install -r requirements.txt
+```
 
 ## Ejecución del servidor de backend
 
