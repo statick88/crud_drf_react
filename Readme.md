@@ -77,7 +77,83 @@ Para iniciar el servidor de desarrollo, ejecuta el siguiente comando:
 ``` bash
 npm run dev
 ```
-
 Ahora deberías poder ver la aplicación en funcionamiento en tu navegador.
+
 ---
+# Check List Parte 1:
+
+- [ ] **Paso 1:** Crear directorio de proyecto.
+
+- [ ] **Paso 2:** Verificamos que tenemos las herramientas de python
+
+- [ ] **Paso 3:** Crear entorno virtual con virtualenv.
+
+- [ ] **Paso 4:** Activar entorno virtual
+
+- [ ] **Paso 5:** Seleccionar Python Interpreter.
+
+- [ ] **Paso 6:** Instalamos Django 4.2.
+
+- [ ] **Paso 7:** creamos el proyecto.
+
+- [ ] **Paso 8:** Creamos el proyecto.
+
+- [ ] **Paso 9:** Ejecutamos el servidor.
+
+- [ ] **Paso 10:** Creamos la primera app.
+
+- [ ] **Paso 11:** Agregamos la aplicación en settings.py.
+
+- [ ] **Paso 12:** Preparamos las migraciones.
+
+- [ ] **Paso 13:** Aplicamos las migraciones.
+
+- [ ] **Paso 14:** Instalamos Django Rest Framework.
+
+- [ ] **Paso 15:** Instalamos django-cors-headers.
+
+- [ ] **Paso 16:** Añadimos Django Rest Framework y Corsheaders a settings.py:
+
+- [ ] **Paso 17:** Agregamos Django cors Middleware.
+
+- [ ] **Paso 18:** Creamos la autorización que permita a otros servidores que nos permite conectarnos:
+
+- [ ] **Paso 19:** Creamos los modelos.
+
+- [ ] **Paso 20:** Preparamos las migraciones de la nueva tabla.
+
+- [ ] **Paso 21:** Aplicamos las migraciones de la nueva tabla.
+
+- [ ] **Paso 22:** Creamos un usuario.
+
+- [ ] **Paso 23:** Añadimos el modelo a administración:
+
+- [ ] **Paso 24:** Probamos la administración de Django.
+
+- [ ] **Paso 25:** Modificamos el método string.
+
+- [ ] **Paso 26:** Creamos el serializador.
+
+- [ ] **Paso 27:** Creamos la vista.
+
+- [ ] **Paso 28:** Añadimos la vista a las urls de la aplicación.
+
+- [ ] **Paso 29:** Creamos la ruta en el archivo urls.py del proyecto.
+
+- [ ] **Paso 30:** Probamos la API.
+
+- [ ] **Paso 31:** Agregamos las demás tareas a la API.
+
+### Extra: Documentar con CoreAPI
+
+- [ ] **Paso 1:** Instalamos CoreAPI.
+
+- [ ] **Paso 2:** Añadimos CoreAPI a settings.py.
+
+- [ ] **Paso 3:** Añadimos la ruta de CoreAPI a urls.py.
+
+- [ ] **Paso 4:** Probamos la documentación.
+
+---
+
 El código base fue desarrollado desde este repositorio [Fast Code](https://github.com/fazt/django-react-crud)
