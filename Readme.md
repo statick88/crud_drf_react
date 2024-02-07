@@ -82,35 +82,28 @@ Ahora deberías poder ver la aplicación en funcionamiento en tu navegador.
 ---
 # Check List Parte 1:
 
-- [ ] **Paso 1:** Crear directorio de proyecto.
+## Preparar el entorno de desarrollo
 
-- [ ] **Paso 2:** Verificamos que tenemos las herramientas de python
+- [ ] **Paso 1:** Crear entorno virtual con virtualenv.
 
-- [ ] **Paso 3:** Crear entorno virtual con virtualenv.
+- [ ] **Paso 2:** Activar entorno virtual
 
-- [ ] **Paso 4:** Activar entorno virtual
+- [ ] **Paso 3:** Seleccionar Python Interpreter.
 
-- [ ] **Paso 5:** Seleccionar Python Interpreter.
+- [ ] **Paso 4:** Instalamos Django 4.2.
 
-- [ ] **Paso 6:** Instalamos Django 4.2.
+- [ ] **Paso 5:** Creamos el proyecto.
 
-- [ ] **Paso 7:** creamos el proyecto.
+- [ ] **Paso 6:** Corremos el servidor
 
-- [ ] **Paso 8:** Creamos el proyecto.
+- [ ] **Paso 7:** Creamos la primera app.
 
-- [ ] **Paso 9:** Ejecutamos el servidor.
+- [ ] **Paso 8:** Agregamos la aplicación en settings.py.
+- [ ] **Paso 9:** Aplicamos las migraciones
 
-- [ ] **Paso 10:** Creamos la primera app.
+## Instalar y configurar Django Rest Framework
 
-- [ ] **Paso 11:** Agregamos la aplicación en settings.py.
-
-- [ ] **Paso 12:** Preparamos las migraciones.
-
-- [ ] **Paso 13:** Aplicamos las migraciones.
-
-- [ ] **Paso 14:** Instalamos Django Rest Framework.
-
-- [ ] **Paso 15:** Instalamos django-cors-headers.
+- [ ] **Paso 10:** Instalamos Django Rest Framework y django-cors-headers.
 
 - [ ] **Paso 16:** Añadimos Django Rest Framework y Corsheaders a settings.py:
 

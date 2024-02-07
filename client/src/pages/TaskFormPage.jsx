@@ -67,14 +67,14 @@ export function TaskFormPage() {
           type="text"
           placeholder="title"
           {...register("title", { required: true })}
-          className="bg-zing-700 p-3 rounded-lg block w-full mb-3"
+          className="bg-zing-700 p-3 rounded-lg block w-full mb-3 text-black"
         />
         {errors.title && <span>This field is required</span>}
         <textarea
           rows="3"
           placeholder="description"
           {...register("description", { required: true })}
-          className="bg-zing-700 p-3 rounded-lg block w-full mb-3"
+          className="bg-zing-700 p-3 rounded-lg block w-full mb-3 text-black"
         ></textarea>
         {errors.description && <span>This field is required</span>}
         <button
